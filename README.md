@@ -34,7 +34,7 @@ Username and password are optional but I recommend them.
 PS: yes the first time run /accepteula and follow the guide to add psexec for windows %path%
 
 
-#one exe to run all -> S:\....\plex.exe
+# one exe to run all -> S:\....\plex.exe - this github script #
 
 Instead of running different path for every program i have created this script to run different programs using the parameter number, so you can just update your main exe if there are any updates on your local paths
 
